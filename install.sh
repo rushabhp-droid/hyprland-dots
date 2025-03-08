@@ -9,7 +9,7 @@ install_packages() {
 }
 
 # Function to back up and copy configuration files
-backup_and_copy_configs() {
+delete_and_copy_configs() {
   rm -rf ~/.config/{hypr,rofi,alacritty}
   cp -r config/* ~/.config/
 }
@@ -23,7 +23,7 @@ fi
 # Main function
 main() {
   install_packages "$@"
-  backup_and_copy_configs
+  delete_and_copy_configs
 }
 
 # Execute main function with all input parameters
