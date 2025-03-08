@@ -11,3 +11,7 @@ This repository contains my configuration for Hyprland, optimized for daily use 
    ```bash
    git clone https://github.com/rushabhp-droid/hyprland-dots.git
    cd hyprland-dots
+
+
+## Credits
+* [keyitdev](https://github.com/keyitdev) for the [sddm-astronaut-theme](https://github.com/keyitdev/sddm-astronaut-theme)
