@@ -5,7 +5,7 @@ set -e
 # Function to install required packages
 install_packages() {
   sudo pacman -Syu
-  yay -S ttf-jetbrains-mono-nerd alacritty rofi-wayland swaync hyprpaper-git hyprland-git
+  yay -S ttf-jetbrains-mono-nerd alacritty rofi-wayland swaync hyprpaper-git hyprland-git pavucontrol sof-firmware pipewire pipewire-alsa pipewire-jack pipewire-pulse pipewire-rtkit wireplumber sddm wl-clipboard
 }
 
 # Function to back up and copy configuration files
