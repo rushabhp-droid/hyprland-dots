@@ -15,5 +15,6 @@ This repository contains my configuration for Hyprland, optimized for daily use 
 
 ## Credits
 * [keyitdev](https://github.com/keyitdev) for the [sddm-astronaut-theme](https://github.com/keyitdev/sddm-astronaut-theme)
+* [Catppuccin](https://catppuccin.com) for the wlogout theme
 * [Nerd Fonts](https://www.nerdfonts.com/)
 * [Hyprland](https://github.com/hyprwm/Hyprland)
