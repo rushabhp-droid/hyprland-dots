@@ -2,6 +2,9 @@
 normal = {family = "JetBrainsMono Nerd font", style = "Regular"}
 size = 14
 
+[window]
+decorations = "Full"
+opacity = 0.9
 
 [colors.primary]
 background = "#1e1e2e"
